@@ -22,9 +22,9 @@ DEFAULT_CONFIG = {
     },
     'Attack Vector':{
         'Overall': 0.5,
-        'Few': 4,
-        'Many': 6,
-        'Majority': 8,
+        'Physical': 4,
+        'Local': 6,
+        'Adjacent Network': 8,
         'Network': 10
     },
     'User Interaction':{
